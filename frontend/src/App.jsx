@@ -47,7 +47,7 @@ function App() {
 
   return (
     <div>
-      <h1>The Notes App</h1>
+      <h1>My notes</h1>
 
       <p>
         Served by <strong>{instance ?? "..."}</strong>
